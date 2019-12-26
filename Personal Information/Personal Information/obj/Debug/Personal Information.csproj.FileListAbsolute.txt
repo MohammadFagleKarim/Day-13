@@ -1,0 +1,12 @@
+G:\Day-13\Personal Information\Personal Information\bin\Debug\Personal Information.exe.config
+G:\Day-13\Personal Information\Personal Information\bin\Debug\Personal Information.exe
+G:\Day-13\Personal Information\Personal Information\bin\Debug\Personal Information.pdb
+G:\Day-13\Personal Information\Personal Information\obj\Debug\Personal Information.csprojAssemblyReference.cache
+G:\Day-13\Personal Information\Personal Information\obj\Debug\Personal_Information.Properties.Resources.resources
+G:\Day-13\Personal Information\Personal Information\obj\Debug\Personal Information.csproj.GenerateResource.cache
+G:\Day-13\Personal Information\Personal Information\obj\Debug\Personal Information.csproj.CoreCompileInputs.cache
+G:\Day-13\Personal Information\Personal Information\obj\Debug\Personal Information.exe
+G:\Day-13\Personal Information\Personal Information\obj\Debug\Personal Information.pdb
+G:\Day-13\Personal Information\Personal Information\obj\Debug\Personal_Information.EmployeeSalaryUi.resources
+G:\Day-13\Personal Information\Personal Information\obj\Debug\Personal_Information.PersonalUi.resources
+G:\Day-13\Personal Information\Personal Information\obj\Debug\Personal_Information.BankAccountOperationUi.resources
